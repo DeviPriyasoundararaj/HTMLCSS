@@ -1,0 +1,40 @@
+
+
+.login {
+  padding: 20px;
+  box-sizing: broder-box;
+  margin: 60px auto;
+  align-items:center;
+  width:460px;
+  text-align:center;
+}
+
+.input {
+  border-radius: 10px;
+  padding: 16px;
+  margin-bottom: 10px;
+  border: 1px solid gray;
+  width: 50%;
+ 
+}
+
+.btn {
+  color: white;
+  background-color: black;
+  border-radius: 40px;
+  width: 200px;
+  padding: 10px;
+  margin: 10px;
+  text-align: center;
+  border:none
+}
+.link{
+  color:black;
+}
+.para
+{
+  text-align:center;
+  color:gray;
+
+
+
